@@ -1,4 +1,4 @@
-let messages = [" ",];
+let messages = [];
 
 function addMessage(message) {
     messages.push(message);
